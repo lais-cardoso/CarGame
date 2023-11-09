@@ -17,14 +17,14 @@ Um projeto final construído na disciplina de Sistemas Microcontrolados que tem 
   - Desviar de obstáculos simulando uma rodovia.
   - Calcular a pontuação do Jogador.
 
-# :pushpin: Materiais Software utilizados
+# :pushpin: Materiais Software 
 
   - Documentação C/C++: https://learn.microsoft.com/pt-br/cpp/cpp/basic-concepts-cpp?view=msvc-170
   - Documentação da Biblioteca SparkFunColorLCDShield: https://www.sparkfun.com/tutorials/286
   - Repositório da Biblioteca Timerwithoutdelay: https://github.com/casaautomacao/timerwithoutdelay/tree/master
   - Download Arduino IDE: https://www.arduino.cc/en/software
 
-# :pushpin: Materiais Hardware utilizados
+# :pushpin: Materiais Hardware 
 
   - Arduino Mega
   - Joystick (potenciômetro)
