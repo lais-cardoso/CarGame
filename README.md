@@ -8,9 +8,9 @@ Um projeto final construído na disciplina de Sistemas Microcontrolados que tem 
 
 # ✔️ Tecnologias utilizadas
 
- - **Linguagem**: C/C++</li>
- - **IDE**: Arduino IDE na versão 2.2.1</li>
- - **Bibliotecas**: SparckfunColorLCDShield e timerwithoutdelay</li>
+ - **Linguagem**: C/C++.</li>
+ - **IDE**: Arduino IDE na versão 2.2.1.</li>
+ - **Bibliotecas**: SparckfunColorLCDShield e timerwithoutdelay.</li>
 
 # :hammer: Funcionalidades do projeto
 
