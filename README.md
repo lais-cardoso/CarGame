@@ -8,7 +8,7 @@ Um projeto final construído na disciplina de Sistemas Microcontrolados que tem 
 
 # ✔️ Tecnologias utilizadas
 
- - **Linguagem**: C/C++.</li>
+ - **Linguagem**: C++.</li>
  - **IDE**: Arduino IDE na versão 2.2.1.</li>
  - **Bibliotecas**: SparckfunColorLCDShield e timerwithoutdelay.</li>
 
@@ -19,17 +19,18 @@ Um projeto final construído na disciplina de Sistemas Microcontrolados que tem 
 
 # :pushpin: Materiais Software 
 
-  - Documentação C/C++: https://learn.microsoft.com/pt-br/cpp/cpp/basic-concepts-cpp?view=msvc-170
-  - Documentação da Biblioteca SparkFunColorLCDShield: https://www.sparkfun.com/tutorials/286
+  - Documentação C++: https://learn.microsoft.com/pt-br/cpp/cpp/basic-concepts-cpp?view=msvc-170
+  - Informações da Biblioteca SparkFunColorLCDShield: https://www.sparkfun.com/tutorials/286
   - Repositório da Biblioteca Timerwithoutdelay: https://github.com/casaautomacao/timerwithoutdelay/tree/master
-  - Download Arduino IDE: https://www.arduino.cc/en/software
+  - Informações e Download Arduino IDE: https://www.arduino.cc/en/software
 
 # :pushpin: Materiais Hardware 
 
   - Arduino Mega
+  - Display
   - Joystick (potenciômetro)
   - Jumpers macho fêmea
-  - Display
+ 
 
 # ✒️ Autores
   - Amanda Andrade Alves Barreto
